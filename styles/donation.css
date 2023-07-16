@@ -3,6 +3,7 @@
     background-image: url(../images/donation3.jpg);
 }
 *{
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 .btn-primary{
@@ -13,4 +14,34 @@
     height: 56px;
     border-radius: 5px;
     background-color: orange;
+}
+/* donate section styles */
+.donate{
+    margin-top: 130px;
+    border-radius: 10px;
+}
+.section-title{
+    font-weight: 700px;
+    font-size: 35px;
+    margin-top: 130px;
+}
+.section-description{
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 15px;
+    margin-top: 20px;
+    padding: 2px;
+}
+.donate-info-container{
+    display: flex;
+    justify-content: center;
+}
+.info-title{
+    margin-top: 50px;
+    color: #707070;
+    width: 86px;
+    height: 36px;
+}
+h4{
+    color: grey;
 }
