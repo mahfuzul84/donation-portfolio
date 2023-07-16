@@ -45,3 +45,31 @@
 h4{
     color: grey;
 }
+/* donate plan section styles */
+.donate-plan{
+    margin-top: 130px;
+}
+.plan1{
+   background-color: bisque;
+   margin-left: 157px;
+}
+.plan2{
+    background-color: palegoldenrod;
+}
+.plan3{
+    background-color: pink;
+    margin-right: 177px;
+}
+.plans-container{
+    display: flex;
+    margin-top: 54px;
+    gap: 24px;
+}
+.plan-title{
+    width: 230px;
+    height: 36px;
+}
+.plan-description{
+    width: 315px;
+    height: 101px;
+}
