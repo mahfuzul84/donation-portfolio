@@ -73,3 +73,54 @@ h4{
     width: 315px;
     height: 101px;
 }
+/* your donation section */
+.your-donation{
+    display: flex;
+}
+.donation{
+    margin-top: 182px;
+    width: 493px;
+    height: 374px;
+    margin-left: 157px;
+}
+.donation-title{
+    width: 492px;
+    height: 108px;
+}
+.donation-description{
+    margin-top: 20px;
+    width: 480px;
+    height: 85px;
+}
+.btn-donation{
+    width: 230px;
+    height: 56px;
+    background-color: orange;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.picture{
+    margin-top: 130px;
+    margin-right: 200px;
+    margin-left: 70px;
+}
+/* survive section */
+.need-survive{
+    display: flex;
+}
+.image{
+    margin-top: 90px;
+    margin-left: 156px;
+}
+.survive{
+    margin-top: 145px;
+    margin-right: 256px;
+    margin-left: 94px;
+}
+.btn-survive{
+    width: 230px;
+    height: 56px;
+    background-color: orange;
+    margin-top: 30px; 
+    border-radius: 5px;
+}
