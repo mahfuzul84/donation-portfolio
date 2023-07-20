@@ -124,3 +124,55 @@ h4{
     margin-top: 30px; 
     border-radius: 5px;
 }
+/* updates and contact section */
+.contact{
+    width: 809px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left:315px;
+    margin-right: 312px;
+    background-color: lemonchiffon;
+}
+input{
+    width: 275px;
+    height: 48px;
+    margin: 76px 189px;
+    text-align: left;
+}
+.btn-contact{
+    width: 157px;
+    height: 48px;
+    background-color: orange;
+    text-align: center;
+    border-radius: 5px;
+}
+form {
+    display: flex;
+}
+/* footer section styles */
+.footer{
+    width: 1440px;
+    height: 177px;
+   color: orange;
+   background-color: black;
+}
+.humble{
+    width: 158px;
+    height: 92px;
+    margin-top: 42px;
+    margin-right: 629px;
+    margin-bottom: 42px;
+    margin-left: 653px;
+}
+.footer-title{
+    width: 158px;
+    height: 92px;
+    padding: 10px;
+}
+.footer-description{
+    width: 94px;
+    height: 24px;
+    margin-top: 24px;
+    margin-right: 32px;
+    margin-left: 32px;
+}
